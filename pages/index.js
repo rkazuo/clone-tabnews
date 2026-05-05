@@ -1,8 +1,8 @@
 function Home() {
   return (
     <div>
-      <h1>Bem vindo to the Home Page</h1>
-      <p>This is a sample Next.js application.</p>
+      <h1>Bem vindo ao Home Page do Exemplo de curso</h1>
+      <p>É bom que vc aprenda e domine saporra!</p>
     </div>
   );
 }
