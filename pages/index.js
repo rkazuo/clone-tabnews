@@ -7,4 +7,8 @@ function Home() {
   );
 }
 
+function teste() {
+  console.log("furunculo");
+}
+
 export default Home;
